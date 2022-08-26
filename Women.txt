@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Women</title>
+    <link rel="stylesheet" href="Stylesheets.css">
+    <script src="javascript.js"></script>
+    
+</head>
+<body>
+    <div id="upper" style="background-color: yellowgreen;">
+        <h3 id="t1"><center><i><marquee>Free Shipping across all the country over $25 dollar of purchase</marquee></i></center></h3>
+        <h1 id="header"><center><b>Focus</b></center></h1>
+        <div class="nav-link">
+            <a href="homepage.html" class="hp">Home</a>
+        <a href="Men.html" class="men">Men</a>
+        <a href="Women.html" class="women">Women</a>
+        <a href="sale.html" class="sales">Sales</a>
+        <a href="Contact.html" class="contact">Contact</a>
+
+    
+        </div><br>
+        <h4><center><input type="search" placeholder="search the entire store"><a href="#"><img src="img/cart1.png" height="25px" width="25px"></a></h4></center>
+     
+    <div id="middle">
+        <h3><center>Women Tops</center></h3>
+        <p><center><b><a href="https://www.express.com/mens-clothing/shirts/tees-henleys/cat430030?ICID=MLP_TSHIRTS">SEE ALL OFFERS</a></b></center></p>
+
+        <table>
+  <tr>
+      <img src="img/w1.webp" height="350" width="310">
+      <img src="img/w2.jpg" height="350" width="310">
+      <img src="img/w3.jpg" height="350" width="310">
+      <img src="img/w4.jpg" height="350" width="310">
+
+  </tr>
+  <tr>
+      <td style="size: ;Slim">Slim Linen Tops&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>Slim Navy Linen-Blend Tops&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>Conscious Edit Tops&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>Slim Black & White Tops</t
+      </tr>
+  <tr>
+      <td><del>$79.99</del>&nbsp;&nbsp;&nbsp;<strong>$69.99</strong></td>
+      <td><del>$129.99</del>&nbsp;&nbsp;&nbsp;<strong>$99.99</strong></td>
+      <td><del>$59.99</del>&nbsp;&nbsp;&nbsp;<strong>$49.99</strong></td>
+      <td><del>$99.99</del>&nbsp;&nbsp;&nbsp;<strong>$89.99</strong></t
+  </tr>
+  <tr>
+      <td>select size :<button>S</button><button>M</button><button>L</button></td>
+      <td>select size :<button>S</button><button>M</button><button>L</button></td>
+      <td>select size :<button>S</button><button>M</button><button>L</button></td>
+      <td>select size :<button>S</button><button>M</button><button>L</button></td>
+  </tr>
+  <tr>
+      <td>Quantity<select><option>1</option><option>2</option><option>3</option><option>4</option></select><br><button>add to cart</button></td>
+      <td>Quantity<select><option>1</option><option>2</option><option>3</option><option>4</option></select><br><button>add to cart</button></td>
+  <td>Quantity<select><option>1</option><option>2</option><option>3</option><option>4</option></select><br><button>add to cart</button></td>
+  </tr>
+  <td>Quantity<select><option>1</option><option>2</option><option>3</option><option>4</option></select><br><button>add to cart</button></td>
+    </table>
+    <h3><center>Women Tops</center></h3>
+    <p><center><b><a href="https://www.express.com/mens-clothing/shirts/tees-henleys/cat430030?ICID=MLP_TSHIRTS">SEE ALL OFFERS</a></b></center></p>
+</div>
+    <table>
+        <tr>
+            <img src="img/w5.jpg" height="350" width="310">
+            <img src="img/w6.jpg" height="350" width="310">
+            <img src="img/w7.jpg" height="350" width="310">
+        <img src="img/wwt.webp" height="350" width="310">
+      
+    </tr>
+    <tr>
+        <td style="size: ;Slim">Slim fit tops &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>Slim green tops &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>Slim summer tops &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>Women white tops</td>
+    </tr>
+    <tr>
+        <td><del>$24.99</del>&nbsp;&nbsp;&nbsp;<strong>$19.99</strong></td>
+        <td><del>$36.99</del>&nbsp;&nbsp;&nbsp;<strong>$29.99</strong></td>
+        <td><del>$59.99</del>&nbsp;&nbsp;&nbsp;<strong>$29.99</strong></td>
+        <td><del>$12.99</del>&nbsp;&nbsp;&nbsp;<strong>$8.99</strong></td>
+    </tr>
+    <tr>
+        <td>select size :<button>S</button><button>M</button><button>L</button></td>
+        <td>select size :<button>S</button><button>M</button><button>L</button></td>
+        <td>select size :<button>S</button><button>M</button><button>L</button></td>
+        <td>select size :<button>S</button><button>M</button><button>L</button></td>
+    </tr>
+    <tr>
+        <td>Quantity<select><option>1</option><option>2</option><option>3</option><option>4</option></select><br><button>add to cart</button></td>
+        <td>Quantity<select><option>1</option><option>2</option><option>3</option><option>4</option></select><br><button>add to cart</button></td>
+        <td>Quantity<select><option>1</option><option>2</option><option>3</option><option>4</option></select><br><button>add to cart</button></td>
+        <td>Quantity<select><option>1</option><option>2</option><option>3</option><option>4</option></select><br><button>add to cart</button></td>
+    </tr>
+    </table>
+    
+    <h3><center>Women Jeans</center></h3>
+    <p><center><b><a href="https://www.express.com/mens-clothing/shirts/tees-henleys/cat430030?ICID=MLP_TSHIRTS">SEE ALL OFFERS</a></b></center></p>
+
+    <table>
+    <tr>
+        <img src="img/w9.png" height="350" width="310">
+        <img src="img/w10.jpg" height="350" width="310">
+            <img src="img/w11.jpg" height="350" width="310">
+            <img src="img/w12.jpg" height="350" width="310">
+          
+        </tr>
+        <tr>
+            <td style="size: ;Slim">Slim fit jeans &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+     <td>Slim blue jeans &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+     <td>Slim summer jeans &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+     <td>Slim fit pant</td>
+ </tr>
+ <tr>
+     <td>$49.99</td>
+     <td>$69.99</td>
+     <td>$79.99</td>
+     <td>$48.99</td>
+ </tr>
+ <tr>
+     <td>select size :<button>S</button><button>M</button><button>L</button></td>
+     <td>select size :<button>S</button><button>M</button><button>L</button></td>
+     <td>select size :<button>S</button><button>M</button><button>L</button></td>
+     <td>select size :<button>S</button><button>M</button><button>L</button></td>
+ </tr>
+ <tr>
+     <td>Quantity<select><option>1</option><option>2</option><option>3</option><option>4</option></select><br><button>add to cart</button></td>
+     <td>Quantity<select><option>1</option><option>2</option><option>3</option><option>4</option></select><br><button>add to cart</button></td>
+     <td>Quantity<select><option>1</option><option>2</option><option>3</option><option>4</option></select><br><button>add to cart</button></td>
+     <td>Quantity<select><option>1</option><option>2</option><option>3</option><option>4</option></select><br><button>add to cart</button></td>
+ </tr>
+ </table>
+    <div id="lower">
+    <h6><span>ABOUT</span></h6>
+    <ul>
+    <li><a style="text-decoration: none"href="/pages/about-us">
+    <span>About us</span>
+    </a></li>
+    <li><a style="text-decoration: none"href="/pages/delivery-information">
+    <span>Delivery Information</span>
+    </a></li>
+    <li><a style="text-decoration: none"href="/pages/exchange-policy">
+    <span>Exchange Policy</span>
+    </a></li> 
+    <li><a style="text-decoration: none"href="/pages/privacy-policy">
+    <span>Privacy Policy</span>
+    </a></li>
+    <li><a style="text-decoration: none"href="/pages/career-yellow">
+    <span>Career </span>
+    </a></li> 
+    </ul>
+    </div>
+</body>
+</html>

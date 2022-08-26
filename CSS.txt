@@ -1,0 +1,154 @@
+.homePage{
+    background-color: yellowgreen;
+}
+.nav-link{
+    text-align: center;
+   text-decoration-color: yellowgreen;
+}
+    #f1{
+        float: left;
+    }
+    #f2{
+        float: right;  
+    }
+    #f3{
+       float: calc(center);
+       padding-left: 10cm;
+    }
+    #text{
+        background-color:yellowgreen;
+        padding-bottom: 5cm;
+    }
+    #mid{
+        background-color: yellowgreen;
+    }
+    #exp{
+        text-align: center;
+    }
+
+    #upper{
+    padding-bottom: 20cm;
+     list-style-type: none;
+    text-decoration: non
+   }
+ .lower{
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+    padding-bottom: 8cm;
+}
+bd.p{
+    background-color: yellow;
+}
+#cat2{
+    text-align: center;
+}    
+#cat3{
+    text-align: right;
+   padding-right: 4cm;
+}    
+.hp{
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+    text-decoration: none;
+    color: black;
+}
+.men{
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+    text-decoration: none;
+    color: black;
+}
+.women{
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+    text-decoration: none;
+    color: black;
+}
+.sales{
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+    text-decoration: none;
+    color: black;
+}
+.contact{
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+    text-decoration: none;
+    color: black;
+}
+#cat2 .t1{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    font-style: italic;
+
+}
+#cat2 .t2{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    font-style: italic;
+
+}
+#cat2 .t3{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    font-style: italic;
+
+}
+#cat2 .t4{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    font-style: italic;
+}
+#cat1 .t1{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    font-style: italic;
+}
+#cat1 .t2{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    font-style: italic;
+}
+#cat1 .t3{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    font-style: italic;
+}
+#cat1 .t4{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    font-style: italic;
+}
+#cat3 .t1{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    font-style: italic;
+}
+#cat3 .t2{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    font-style: italic;
+}
+#cat3 .t3{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    font-style: italic;
+}
+#cat3 .t4{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    font-style: italic;
+}

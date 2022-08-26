@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="Stylesheets.css">
+<script src="javascript.js"></script>
+    
+</head>
+<body class="bd">
+    <div class="lower" style="background-color: yellowgreen;">
+        <h3 id="t1"><center><i>Free Shipping across all the country over $25 dollar of purchase</i></center></h3>
+        <h1 id="header"><center><b>Focus</b></center></h1>
+        <div class="nav-link">
+            <a href="homepage.html" class="hp">Home</a>
+            <a href="Men.html" class="men">Men</a>
+            <a href="Women.html" class="women">Women</a>
+            <a href="sale.html" class="sales">Sales</a>
+            <a href="Contact.html" class="contact">Contact</a>
+           
+    
+        </div><br>
+        <div id="form">
+           <b><form name="myForm" onsubmit="return validateForm()"> First Name: <input type="text" name="fname"><br><br></b>
+           <b><form name="myForm" onsubmit="return validateForm()"> Last Name: <input type="text" name="fname"></b><br><br>
+            <b><form name="myForm" onsubmit="return validateForm()"> Email: <input type="text" name="fname"></b><br><br>
+            <b><form name="myForm" onsubmit="return validateForm()"> Message     : <input type="text" name="fname"></b><br><br>
+            <center></center><input type="submit" value="Submit"></form>
+            </div>
+        <div id="lower1">
+        <h6><span>ABOUT</span></h6>
+        <ul>
+        <li id="a1"><a style="text-decoration: none"href="/pages/about-us">
+        <span id="span">About us</span>
+        </a></li>
+        <li id="a2"><a style="text-decoration: none" href="/pages/delivery-information">
+        <span>Delivery Information</span>
+        </a></li>
+        <li><a style="text-decoration: none"href="/pages/exchange-policy">
+        <span>Exchange Policy</span>
+        </a></li> 
+        <li><a style="text-decoration: none"href="/pages/privacy-policy">
+        <span>Privacy Policy</span>
+        </a></li>
+        <li><a style="text-decoration: none"href="/pages/career-yellow">
+        <span>Career </span>
+        </a></li> 
+        </ul>
+        </div>
+        </div>
+    </div>
+       
+
+</body>
+</html>

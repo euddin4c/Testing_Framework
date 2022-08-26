@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Homepage</title>
+    <link rel="stylesheet" href="Stylesheets.css">
+    <script src="javascript.js"></script>
+    
+</head>
+<body class="homePage">
+    <div id="upper" style="background-color: yellowgreen;">
+    <div class="nav1"> 
+        <h3 id="t1"><center><i>Free Shipping across all the country over $25 dollar of purchase</i></center></h3>
+        <h1 id="header"><center><b>Focus</b></center></h1>
+        <h4><center><input type="search" placeholder="search the entire store"></h4></center>
+        <div class="nav-link">
+            <a href="homepage.html" class="hp">Home</a>
+            <a href="Men.html" class="men">Men</a>
+            <a href="Women.html" class="women">Women</a>
+            <a href="sale.html" class="sales">Sales</a>
+            <a href="Contact.html" class="contact">Contact</a>
+    </div>
+    </div><br>
+    <img src="img/base.webp" height="450">
+    <img src="img/pic3.webp" height="450">
+    <img src="img/pic4.webp" height="450">
+    <img src="img/pic5.webp" height="450"><br><br>
+
+    <div id="cat1">
+    <span>BROWSE BY </span><BR><br>
+        <span>CATEGORY:Men</span>
+        <p><small><style></style><a href="" class="t1"> vintage jeans</a></small></p>
+         <p><small><a href="" class="t2">modern denim jeans</a></small></p>
+        <p><small><a href="" class="t3">modern shirts</a></small></p>
+        <p><small><a href="" class="t4">men shorts</a></small></p>
+        </div>
+        <div id="cat2">
+        <span>CATEGORY:Women </span>
+        <p><small><a href="" class="t1"> Tops</a></small></p>
+         <p><small><a href="" class="t2">modern denim jeans</a></small></p>
+        <p><small><a href="" class="t3">modern shirts</a></small></p>
+        <p><small><a href="" class="t4">Women shorts</a></small></p>
+    </div>
+
+    <div id="cat3">
+        <span>CATEGORY:Children </span>
+        <p><small><style></style><a href="" class="t1"> Shirt and Pants</a></small></p>
+         <p><small><a href="" class="t2">Full set</a></small></p>
+        <p><small><a href="" class="t3">Toddler shirts</a></small></p>
+        <p><small><a href="" class="t4">Children shorts</a></small></p>
+    </div>
+        <div id="lower">
+            <h6 style="padding-right: ;0.5cm" ><span>ABOUT</span></h6>
+            <ul>
+            <li><a style="text-decoration: none"href="/pages/about-us">
+            <span>About us</span>
+            </a></li>
+            <li><a style="text-decoration: none"href="/pages/delivery-information">
+            <span>Delivery Information</span>
+            </a></li>
+            <li><a style="text-decoration: none"href="/pages/exchange-policy">
+            <span>Exchange Policy</span>
+            </a></li> 
+            <li><a style="text-decoration: none"href="/pages/privacy-policy">
+            <span>Privacy Policy</span>
+            </a></li>
+            <li><a style="text-decoration: none"href="/pages/career-yellow">
+            <span>Career </span>
+            </a></li> 
+            </ul>
+            </div>
+    
+        </div>
+        
+
+<div>
+    
+</body>
+</html>

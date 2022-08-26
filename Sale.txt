@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Sale</title>
+    <link rel="stylesheet" href="Stylesheets.css">
+    <script src="javascript.js"></script>
+    
+</head>
+<body class="b">
+    <div id="upper" style="background-color: yellowgreen;">
+        <div id="mid">
+        <h3 id="t1"><center><i>Free Shipping across all the country over $25 dollar of purchase</i></center></h3>
+        <h1 id="header"><center><b>Focus</b></center></h1>
+        <div class="nav-link">
+            <a href="homepage.html" class="hp">Home</a>
+            <a href="Men.html" class="men">Men</a>
+            <a href="Women.html" class="women">Women</a>
+            <a href="sale.html" class="sales">Sales</a>
+            <a href="Contact.html" class="contact">Contact</a>
+    
+        </div><br>
+        <h4><center><input type="search" placeholder="search the entire store"><a href="#"><img src="img/cart1.png" height="25px" width="25px"></a></h4></center>
+    </div>
+    
+    <div class="middle">
+    <h3><marquee>60% off all eligle items over $60 dollars of purchases</marquee></h3>
+    <p><center>Sign Up extra 5% off</center></p>
+    <p><center><button type="button">email <input type="text" ></button> </center></p>
+    <center><button>Sign Up</button></center>
+    </div>
+    <div class="mid one">
+        <div id="f1"> 
+            <h3>Men Sales Items</h3>
+            <a href="#"><img src="img/mens cloth.webp" height="250" width="254"></a>
+        </div>
+   <div id="f2"> 
+    <h3>Women Sales Items</h3>
+    <a href="#"><img src="img/womens.jpg" height="250" width="254"></a>
+   </div>
+   <div id="f3"> 
+    <h3>Children Sales Items</h3>
+    <a href="#"><img src="img/childs.jpg" height="250" width="254"></a><br><br>
+   </div>
+   <div>
+       <p id="text">Explore Focus's Clearance section for great deals on items from every department. Discover discounts 
+          on clothes, jewelry, shoes, toys and home goods. Focus's
+        sales provide you with the chance to save big on trendy women's clothing, baby clothes, men's clothes and more.
+       Find huge Focus's discounts on home decor and clearance jeans. Accessorize with marked down handbags, purses and 
+       flip-flops for women. Discover a great way to save on gifts with discounted watches, clearance dresses, necklaces 
+       and other gift items like fashion scarves, toys and items from the clearance Sports Fan shop. Take advantage of 
+       Focus's clearance by stocking up on basics or grabbing that special piece for a fabulous price.
+    </p>
+    <div id="exp">
+    <h6><span>ABOUT</span></h6>
+    <ul>
+    <li id="a1"><a style="text-decoration: none"href="/pages/about-us">
+    <span>About us</span>
+    </a></li>
+    <li id="a2"><a style="text-decoration: none" href="/pages/delivery-information">
+    <span>Delivery Information</span>
+    </a></li>
+    <li><a style="text-decoration: none"href="/pages/exchange-policy">
+    <span>Exchange Policy</span>
+    </a></li> 
+    <li><a style="text-decoration: none"href="/pages/privacy-policy">
+    <span>Privacy Policy</span>
+    </a></li>
+    <li><a style="text-decoration: none"href="/pages/career-yellow">
+    <span>Career </span>
+    </a></li> 
+    </ul>
+</div>
+</div>
+   </div>
+    
+</body>
+</html>
